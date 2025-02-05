@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Konfigurasi
-TELEGRAM_BOT_TOKEN="6825494220:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Token bot Telegram
-TELEGRAM_CHAT_ID="-1001836290508"      # ID chat atau grup Telegram tujuan
+TELEGRAM_BOT_TOKEN="3243243224:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Token bot Telegram
+TELEGRAM_CHAT_ID="-048092830324"      # ID chat atau grup Telegram tujuan
 ZIMBRA_USER="zextras"                          # User Zimbra
 QUEUE_THRESHOLD=500                           # Batas jumlah queue
 
