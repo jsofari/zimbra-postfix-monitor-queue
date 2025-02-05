@@ -2,8 +2,8 @@
 
 # Konfigurasi
 ZIMBRA_LOG="/var/log/zimbra.log"        # Lokasi file log Zimbra
-TELEGRAM_BOT_TOKEN="6825494220:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Ganti dengan token bot Telegram Anda
-TELEGRAM_CHAT_ID="-1001836290508"        # Ganti dengan ID chat atau grup Telegram tujuan
+TELEGRAM_BOT_TOKEN="3242343242432:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Ganti dengan token bot Telegram Anda
+TELEGRAM_CHAT_ID="-32432432324"        # Ganti dengan ID chat atau grup Telegram tujuan
 
 # Tanggal hari ini dalam format yang cocok untuk grep (misal Dec 17)
 TODAY=$(date '+%b %d')
