@@ -2,8 +2,8 @@
 
 # Konfigurasi
 LOG_FILE="/var/log/zimbra.log"     # Path ke log Zimbra
-TELEGRAM_BOT_TOKEN="6825494220:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Token Bot Telegram Anda
-CHAT_ID="-1001836290508"                # Chat ID Anda
+TELEGRAM_BOT_TOKEN="234233432:AAFjnixV7Rh5LLHpHNu_Wwo_yuo5RplLDvM"  # Token Bot Telegram Anda
+CHAT_ID="-324324324"                # Chat ID Anda
 THRESHOLD=7                       # Ambang batas gagal login
 
 # Fungsi untuk mengirim notifikasi ke Telegram
